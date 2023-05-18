@@ -6,3 +6,8 @@ Comandos
 - push: git push
 - fetch: git fetch (refresca los cambios nuevos)
 - pull: git pull
+
+Ramas
+- Las ramas nos permiten agregar commits de una
+ manera segura, sin alterar directamente la
+ rama principal (main).
